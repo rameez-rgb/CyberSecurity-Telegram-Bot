@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
+.env
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Log files
+logs/
+*.log
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Testing cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
